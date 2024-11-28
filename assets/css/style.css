@@ -390,7 +390,7 @@
     height: 30px;
     border-radius: 30px;;
     background: #efeff0;
-    padding: 0 19px;
+    padding: 0 10px;
     border: 0;
     cursor: pointer;
 }
@@ -449,12 +449,10 @@
 .slot .price-info .price-by-type dt{
     position: relative;
     font-size: 14px;
-    font-weight: 300;
 }
 
 .slot .price-info .price-by-type dd{
     font-size: 14px;
-    font-weight: 300;
     margin: 0;
 }
 
