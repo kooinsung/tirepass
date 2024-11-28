@@ -203,6 +203,7 @@
     .quick-fiter button{
         width: 70px;
         height: 70px;
+        gap: 3px;
     }
 
     .quick-fiter button strong{
