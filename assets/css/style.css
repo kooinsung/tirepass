@@ -194,9 +194,11 @@
 .slot-list{
     width: 100%;
     max-width: 600px;
+    min-width: 320px;
     margin: 0 auto;
     background: #f4f4f4;
     padding: 25px;
+    box-sizing: border-box;
 }
 
 .slot{
@@ -283,6 +285,10 @@
     margin-top: 20px;
 }
 
+.slot .info2-wrapper .title {
+    letter-spacing: -1px;
+}
+
 .slot .info2-wrapper .title span:first-child{
     font-size: 24px;
     color: #333333;
@@ -351,10 +357,10 @@
 }
 
 .slot .purchase-info .purchase-input span{
-    width: 90px;
+    width: 70px;
     border: 1px solid #bbbbbb;
     display: inline-flex;
-    border-radius: 20px;
+    border-radius: 40px;
 }
 
 .slot .purchase-info .purchase-input input{
@@ -375,7 +381,7 @@
     font-size: 18px;
     color: #999999;
     height: 40px;
-    border-radius: 20px;;
+    border-radius: 40px;;
     background: #efeff0;
     padding: 0 19px;
     border: 0;
