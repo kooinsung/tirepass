@@ -513,14 +513,14 @@
 .slot .slot-buttons button.add-cart-button{
     flex-basis: 156px;
     flex-shrink: 0;
-    font-size: 20px;
+    font-size: 18px;
     color: #333333;
 }
 
 .slot .slot-buttons button.buy-button{
     flex-basis: 100%;
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     background: #ff4e4b;
 }
 
