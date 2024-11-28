@@ -364,6 +364,7 @@
 
 .slot .purchase-info .purchase-input span{
     width: 70px;
+    height: 38px;
     border: 1px solid #bbbbbb;
     display: inline-flex;
     border-radius: 40px;
@@ -371,7 +372,6 @@
 
 .slot .purchase-info .purchase-input input{
     width: 100%;
-    line-height: 38px;
     background: transparent;
     border: 0;
     font-size: 18px;
