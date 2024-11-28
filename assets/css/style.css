@@ -180,7 +180,6 @@
     background: #232c67;
 }
 
-
 .quick-fiter button strong{
     color: #333333;
     font-size: 14px;
@@ -194,6 +193,26 @@
 .quick-fiter button span{
     color: #333333;
     font-size: 12px;
+}
+
+@media (max-width: 480px) {
+    .quick-fiter{
+        gap: 0;
+    }
+
+    .quick-fiter button{
+        width: 65px;
+        height: 65px;
+    }
+
+    .quick-fiter button strong{
+        font-size: 12px;
+    }
+   
+    .quick-fiter button span{
+        font-size: 10px;
+    }
+    
 }
 
 .slot-list{
