@@ -202,8 +202,8 @@
     }
 
     .quick-fiter button{
-        width: 70px;
-        height: 70px;
+        width: 73px;
+        height: 73px;
         gap: 0.5px;
     }
 
@@ -534,7 +534,7 @@
 }
 
 .slot .slot-buttons button.add-cart-button{
-    flex-basis: 100%;
+    flex-basis: 80%;
     font-size: 18px;
     color: #333333;
 }
