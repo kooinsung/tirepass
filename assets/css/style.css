@@ -534,7 +534,7 @@
 }
 
 .slot .slot-buttons button.add-cart-button{
-    flex-basis: 80%;
+    flex-basis: 70%;
     font-size: 18px;
     color: #333333;
 }
