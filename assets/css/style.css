@@ -201,16 +201,18 @@
     }
 
     .quick-fiter button{
-        width: 65px;
-        height: 65px;
+        width: 70px;
+        height: 70px;
     }
 
     .quick-fiter button strong{
         font-size: 11px;
+        letter-spacing: -0.5px;
     }
    
     .quick-fiter button span{
         font-size: 9px;
+        letter-spacing: -0.5px;
     }
     
 }
