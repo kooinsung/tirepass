@@ -142,7 +142,7 @@
     align-items: center;
     justify-content: center;
     color: #333333;
-    font-size: 16px;
+    font-size: 14px;
     height: 50px;
     text-align: center;
 }
@@ -182,7 +182,7 @@
 
 .quick-fiter button strong{
     color: #333333;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
 }
 
@@ -238,7 +238,7 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
-    font-size:13px;
+    font-size: 12px;
     color: #fff;
     height: 30px;
     border-radius: 30px;
@@ -251,7 +251,7 @@
 }
 
 .slot .info1-wrapper .description{
-    font-size: 13px;
+    font-size: 12px;
     color: #666666;
     margin-top: 15px;
 }
@@ -296,24 +296,24 @@
 }
 
 .slot .info2-wrapper .title span:first-child{
-    font-size: 24px;
+    font-size: 20px;
     color: #333333;
     margin-right: 5px;
 }
 
 .slot .info2-wrapper .title span:last-child{
-    font-size: 15px;
+    font-size: 13px;
     color: #999999;
 }
 
 .slot .info2-wrapper .size{
     margin-top: 14px;
-    font-size: 18px;
+    font-size: 15px;
     color: #999999;
 }
 
 .slot .info2-wrapper .size strong{
-    font-size: 18px;
+    font-size: 15px;
     color: #333333;
     font-weight: 400;
 }
@@ -323,7 +323,7 @@
 }
 
 .slot .info2-wrapper .models li{
-    font-size: 18px;
+    font-size: 15px;
     color: #169bd6;
 }
 
@@ -384,7 +384,7 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
-    font-size: 18px;
+    font-size: 15px;
     color: #999999;
     height: 40px;
     border-radius: 40px;;
@@ -408,14 +408,14 @@
 
 .slot .price-info .price-inventory .sale-price{
     display: flex;
-    font-size: 18px;
+    font-size: 16px;
     color: #333333;
     font-weight: 400;
 }
 
 .slot .price-info .price-inventory .current-inventory{
     border: 2px solid #dddddd;
-    font-size: 18px;
+    font-size: 15px;
     color: #333333;
     height: 40px;
     display: flex;
@@ -446,12 +446,12 @@
 
 .slot .price-info .price-by-type dt{
     position: relative;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 300;
 }
 
 .slot .price-info .price-by-type dd{
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 300;
     margin: 0;
 }
